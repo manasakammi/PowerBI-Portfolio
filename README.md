@@ -1,2 +1,2 @@
 # PowerBI-Portfolio
-Power BI Dashboards, Dax, SQL &amp; power query example
+Power BI Dashboards, Dax, SQL &amp; Power query example
